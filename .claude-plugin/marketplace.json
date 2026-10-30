@@ -4,8 +4,7 @@
 "name": "Manaranjan Pradhan"
 },
 "metadata": {
-"description": "Claude Code plugin for askdb: database config and evaluation 
-dataset skills."
+"description": "Claude Code plugin for askdb: database config and evaluation dataset skills."
 },
 "plugins": [
 {
